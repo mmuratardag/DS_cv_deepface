@@ -24,4 +24,4 @@ Images depicting brawls in local, federal, and national parliaments in Turkey, U
 
 The face recognition, gender identification, and emotion prediction tasks are all performing poorly.
 
-<img src="heart_borken_emoji.png" alt="heart_borken_emoji" style="zoom:10%;" />
+![](heart_broken_emoji.png)
